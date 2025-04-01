@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a **B.Tech student in AI & Data Science** at **School 
 
 ## ⚡ Tech Stack (Learning)  
 💻 **Languages**: Python, C (just starting!)  
-🛠 **Tools**: Jupyter Notebooks, Git, VS Code  
+🛠 **Tools**: Notebooks, Git, Sublime text 
 🌐 **Other**: Basic HTML, SQL  
 
 ---
@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm a **B.Tech student in AI & Data Science** at **School 
 
 ## 🌍 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhvya-vaish)  
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:bhvya.vaish@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:bhvya.vaish@gmail.com)
 
 ---
 
